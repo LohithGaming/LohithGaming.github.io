@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: blue;
+}
+th.a {
+  position: absolute;
+  left: 10px;
+}
+th.b {
+  position:relative;
+  right: 60px;
+}
+th.c {
+  position: absolute;
+  right: 50px;
+}
+h1 {
+  color:purple;
+  font-family:'Courier New', Courier, monospace
+}
+p {
+  color: brown;
+}
+a {
+  color: blue;
+}
+</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
