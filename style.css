@@ -1,5 +1,6 @@
 body {
   background-color: yellow;
+  font-family:'Courier New', Courier, monospace
 }
 th.a {
   position: absolute;
@@ -23,6 +24,7 @@ p {
 a {
   color: blue;
 }
+
 
 
 
